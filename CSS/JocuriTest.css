@@ -1,0 +1,56 @@
+.titlu{
+	color: red;
+}
+.h1 {
+    color: green;
+}
+.paragraph{
+	text-align: center;
+	font-size: 18px;
+}
+.img{
+	display: block;
+	width: 400px;
+	height: 200px;
+	border: 3px solid #641892;
+	margin-left: auto;
+	margin-right: auto;
+}
+.paragraf2{
+	color: lightcyan;
+}
+#paragraf{
+	color: lightcyan;
+}
+
+/* style card */
+.card{
+	width: 100%;
+	display: flex;
+	margin-bottom: 20px;
+}
+.title{
+    color: grey;
+    text-align: centre;
+    font-size: 20px;
+}
+.text{
+    color: lightgrey;
+    text-align: center;
+    background-color: lightgreen;
+}
+.card img{
+	width: 29%;
+	height: auto;
+}
+.stack{
+	display: flex;
+	width: 100wv;
+	flex-wrap: wrap;
+	border: 5px solid black;
+	justify-content: space-between;
+}
+.text span {
+	font-size: 30px;
+	text-decoration: underline;
+}

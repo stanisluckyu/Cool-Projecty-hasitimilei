@@ -1,0 +1,108 @@
+.titlu{
+	color: red;
+}
+.h1 {
+    color: green;
+}
+.paragraph{
+	text-align: center;
+	font-size: 18px;
+}
+.img{
+	display: block;
+	width: 400px;
+	height: 200px;
+	border: 3px solid #641892;
+	margin-left: auto;
+	margin-right: auto;
+}
+.paragraf2{
+	color: darkcyan;
+}
+#paragraf{
+	color: lightcyan;
+}
+
+/* style card */
+.card{
+	width: 30%;
+}
+.title{
+    color: grey;
+    text-align: centre;
+    font-size: 20px;
+}
+.text{
+    color: lightgrey;
+    text-align: center;
+    background-color: darkblue;
+}
+.card img{
+	width: 100%;
+	height: auto;
+}
+.stack{
+	display: flex;
+	width: 100wv;
+	flex-wrap: wrap;
+	border: 5px solid black;
+	justify-content: space-around;
+}
+.text span {
+	font-size: 30px;
+	text-decoration: underline;
+}
+body {
+	background-image: url("../Images/amogeus.jpg");
+	background-repeat: no-repeat;
+	background-color: lightblue;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: centred;
+}
+.exem {
+	background-color: darkcyan;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	border: 7px solid red;
+}
+.amagas {
+    color: white;
+    font-size: 22px;
+    background-color: darkblue;
+    margin-top: 40px;
+    padding: 20px 5px 25px 5px;
+    border: 4px solid darkcyan;
+}
+.aaa {
+	width: 50%;
+	height: auto;
+	border: 5px solid darkcyan;
+	padding: 50px;
+	margin-bottom: 50px;
+}
+.asas {
+	color: whitesmoke;
+	text-decoration: none;
+	font-size: 25px;
+	background-color: darkslateblue;
+	padding: 10px 20px;
+	border: 15px solid lightskyblue;
+
+	transition: all 0.35s linear;
+}
+
+.asas:hover {
+	border: 5px solid lightskyblue;
+}
+.loly {
+	width: 30%;
+	border: 4px solid lightcyan;
+}
+.aaa6 {
+	width: 50%;
+}

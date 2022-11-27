@@ -1,0 +1,30 @@
+.titlu{
+	background-color: black;
+	color: red;
+}
+.h2 {
+    color: red;
+    background-color: black;
+}
+.paragraph{
+	color: blue;
+	text-align: center;
+	font-size: 18px;
+
+}.paragraph2{
+	color: blue;
+	text-align: center;
+	font-size: 18px;
+}
+.img{
+	display: block;
+	width: 400px;
+	height: 200px;
+	border: 3px solid #641892;
+	margin-left: auto;
+	margin-right: auto;
+}
+.h5 {
+    color: #ffcc00;
+    font-style: italic;
+
